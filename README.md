@@ -2,6 +2,7 @@
 Zendesk Ticket Viewer for 2021 Intern Coding Challenge
 
 A ticket viewer program written in Python to connect to Zendesk API and get all tickets or a single ticket for an account.
+Sample tickets from `tickets.json` were posted to Zendesk account using a POST API call with Postman.
 * Must have a valid Zendesk subdomain url, such as 'https://zccsunnypatel.zendesk.com'.
 
 ## Installation & Usage
